@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Engineering (Full stack)**
 
-- 📝 I regularly write codes on: Java, C, C++, etc
+- 📝 I regularly write codes on: Java, C, C++, C#, Python, etc
 
 - 📫 How to reach me **princeadedayo03@gmail.com**
 
